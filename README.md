@@ -1,4 +1,4 @@
-## Hi, I'm Mansha Mundhra
+## Hi, I'm MANSHA MUNDHRA
 
 <!--
 **MANSAMUNDHRA/MANSAMUNDHRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
