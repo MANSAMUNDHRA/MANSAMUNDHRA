@@ -54,18 +54,7 @@ I build things that function better than I do — full-stack systems, intelligen
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-## 📌 Featured Projects
-
-### [PolyCode-AI](https://github.com/MANSAMUNDHRA/PolyCode-AI)
-> AI-powered code generation platform — type in plain English, get Python/JavaScript back. Features auth, real-time streaming, and a safe execution sandbox. [Live demo](https://polycode-ai.onrender.com)
-
-### [ASHACONNECT](https://github.com/MANSAMUNDHRA/ASHACONNECT)
-> Offline-first Android app for healthcare workers in rural India. Stores data locally, syncs automatically when online. Built for the National Health Mission.
-
-### [StockPredictor](https://github.com/MANSAMUNDHRA/StockPredictor)
-> ML-powered stock forecasting tool (in progress). Playing with ensemble methods and **obsessively tuning loss functions** because that's where the magic happens.
 
 ---
 
