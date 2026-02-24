@@ -1,16 +1,14 @@
 ## 👋 Hi, I'm Mansha Mundhra
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 ### 💁‍♀️ About Me
-I build things that function more than me — full-stack apps, AI tools, and the occasional robot that follows lines better than most people follow instructions.
+I build things that function more than me — full-stack apps, AI tools 
 
-- 🔭 Currently building **stuff that interests me** (and hopefully you too)
 - 🌱 Always learning — right now it's **System Design** and **ML optimization**
 - 👯 Open to collaborate on **full-stack projects** or **AI/ML experiments**
-- 💬 Ask me about **tech, robots, or why I'm obsessed with loss functions**
+- 💬 Ask me about **tech, life, or why I'm currently obsessed with loss functions**
 - 📫 Reach me: **mansha.mundhra2005@gmail.com**
-- ⚡ Fun fact: My robots have been to **IIT tech fests** — yes, they travel more than I do
 
 ---
 
