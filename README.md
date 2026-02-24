@@ -15,7 +15,6 @@ I build things that function better than I do — full-stack systems, intelligen
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansha-mundhra-155140283/)
-📧 **Email:** [mansha.mundhra2005@gmail.com](mailto:mansha.mundhra2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MANSAMUNDHRA)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manshamundhra19)
 
