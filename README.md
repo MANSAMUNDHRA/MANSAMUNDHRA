@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 ### 💁‍♀️ About Me
-I build things that function more than me — full-stack apps, AI tools 
+I build things that function better than I do — full-stack systems, intelligent tools, and software that solves real problems.
 
 - 🌱 Always learning — right now it's **System Design** and **ML optimization**
 - 👯 Open to collaborate on **full-stack projects** or **AI/ML experiments**
